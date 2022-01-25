@@ -31,7 +31,7 @@
     "react-native-thumbnail-video": "^0.1.2",
     "react-native-uuid": "^2.0.1",
     "react-native-vector-icons": "^8.1.0",
-    "react-native-web": "~0.16.1"
+    "react-native-web": "~0.17.5"
   },
   "devDependencies": {
     "@babel/core": "~7.13.16"
