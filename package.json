@@ -13,7 +13,7 @@
     "@react-navigation/native": "^5.9.4",
     "@react-navigation/stack": "^5.14.4",
     "buffer": "^6.0.3",
-    "expo": "~41.0.1",
+    "expo": "~47.0.0",
     "expo-splash-screen": "~0.10.2",
     "expo-status-bar": "~1.0.4",
     "react": "17.0.2",
@@ -30,7 +30,7 @@
     "react-native-screens": "^3.1.1",
     "react-native-thumbnail-video": "^0.1.2",
     "react-native-uuid": "^2.0.1",
-    "react-native-vector-icons": "^8.1.0",
+    "react-native-vector-icons": "^9.1.0",
     "react-native-web": "~0.16.1"
   },
   "devDependencies": {
